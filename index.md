@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-Letters from France.
+Once upon a time, four Nova Scotians travelled to the south of France...
 
 [First Letter (Dad)](https://france.iancrosby.ca/docs/Dad-First.html)  
 [Second Letter (Dad)](https://france.iancrosby.ca/docs/Dad-second.html)  
