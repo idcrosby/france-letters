@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Second Letter
+title: Second Letter (Dad)
 nav_order: 2
 ---
 
@@ -66,8 +66,8 @@ Travel is going to be restricted to the breaks because Laura refuses to take tim
 
 I've been running for two weeks and have joined a health club. The French for me is still a mystery and I feel like a deaf mute smiling and nodding my way through conversations. Next week I may try to smile and tell them to shove their language. Signing off for now. Go get 'em Blue Jays.
 
-											Allez Au revoir,
-											Ken Crosby and family
+Allez Au revoir,  
+Ken Crosby and family
 
 P.S. I haven't even waited for a reply from the last letter so this will have to be my October letter. I expect life to get pretty complacent for a while.
 
