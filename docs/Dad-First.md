@@ -72,5 +72,3 @@ Well there you have my first letter. There may even be more now that we are mobi
 
 Love to all
 Ken Crosby and family
-
-
