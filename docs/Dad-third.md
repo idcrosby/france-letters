@@ -4,13 +4,13 @@ title: Third Letter (Dad)
 nav_order: 3
 ---
 
-The third letter of Ken to the Canadians
+The third letter of Ken to the Canadians  
 October 20, 1993
 
 Ello Ello
 
-BOOM... BOOM!!!
-It is truly amazing how sounds remind you of home.
+BOOM... BOOM!!!  
+It is truly amazing how sounds remind you of home.  
 The sound is that of a shotgun. The setting is in the vineyards between Gignac and Aniane.
 
 I thought in this letter, since our lives seem to have melded into that of the français, to bring you along on a typical day.
@@ -56,11 +56,8 @@ Laura has been awarded the line of the month. In a recent conversation Anne was 
 
 Specials at the supermarché this week include steak (cheval), sheep brains, pig snout and sheep hooves. Now you know why we choose Burger King. Bonne appétit.
 
-Allez, Ciou(pronounced chow)
+Allez, Ciou(pronounced chow)  
 Ken Crosby and family
 
-Anne wants everyday in anticipation of your letters. She really doesn't know you.
-Vince
-- Hope the hunting is going well
-- Still haven't found J.C.
+Anne wants everyday in anticipation of your letters. She really doesn't know you.  
 

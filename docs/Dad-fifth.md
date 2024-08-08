@@ -4,12 +4,12 @@ title: Fifth Letter (Dad)
 nav_order: 7
 ---
 
-"The fifth letter of Ken to the Canadians
+The fifth letter of Ken to the Canadians  
 January 4, 1994
 
 Hola Chicos y Chicas,
 
-Let's start with a description of Christmas in Aniane .
+Let's start with a description of Christmas in Aniane.
 
 We purchased a two foot tree in a pot from the Intermarché. It cost about 23 dollars but
 we thought it was going to be a hard time for the kids not being home. For the first time we
@@ -111,8 +111,8 @@ Anyway, Anne will finish the trip story. Two more letters to go. Maybe next time
 talk about the ever changing vineyards. I bet that would make you renew your subscription.
 Signing off in all our languages,
 
-Happy New Year ie
-Bonne Année
+Happy New Year ie  
+Bonne Année  
 Feliz Ano
 
 Ken Crosby and la famille

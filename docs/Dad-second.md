@@ -4,7 +4,7 @@ title: Second Letter
 nav_order: 2
 ---
 
-The second letter of Ken to the Canadians  
+The second letter of Ken to the Canadians   
 September 26   
 Sunday
 

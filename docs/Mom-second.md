@@ -64,5 +64,5 @@ The funny thing was, when we crossed into France all the road signs looked famil
 
 So here we are back to routine. Ian is studying a play of Molière's in French class and his teacher told him that we should go down to Pézenas sometime because there's a barber shop there where Molière got his hair cut, plus a few other things of historical interest. It’s only about 40 minutes away so we'll make that a definite. Anyway, it's time to sign off. Thanks to all of you who remembered us at Christmas. Would you believe we're still getting cards? Must be the Christmas RUSH. Until next time. Take care everyone.
 
-Love,
+Love,  
 Anne.

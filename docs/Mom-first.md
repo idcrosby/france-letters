@@ -48,11 +48,11 @@ apparently jumped out in front of Vince MacGregor and dropped dead at his feet. 
 eye witness the deer's last words were, “Anne really wants to make mince meat when she comes
 home, since she found that recipe using venison."
 
-This month's award winners: 
-Joe and Francine Churney - for the Most peanut butter.
-Robert Crosby - for the BIGGEST jar of peanut butter.
-Dorita Churney - for the first Christmas card received.
-Nana Crosby - for the only ‘surprise’ package received.
+This month's award winners:   
+Joe and Francine Churney - for the Most peanut butter.  
+Robert Crosby - for the BIGGEST jar of peanut butter.  
+Dorita Churney - for the first Christmas card received.  
+Nana Crosby - for the only ‘surprise’ package received.  
 
 By the way, if anyone knows of anyone sending a package this way, throw in a plastic
 measuring cup and a set of measuring spoons. You wouldn't believe how inaccurate measurements

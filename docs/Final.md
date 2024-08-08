@@ -56,7 +56,7 @@ Well, some startling news on the going-home front. There will only be three of u
 
 That's it for me. Take care all. See you in May.
 
-Arrivederci,
+Arrivederci,  
 Anne
 
 
@@ -68,7 +68,7 @@ Dear People
 
 How are you? Weather is fine. Italy was fun.
 
-Love to All
+Love to All  
 John Kenneth and Family,
 
 

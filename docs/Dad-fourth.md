@@ -4,8 +4,8 @@ title: Fourth Letter (Dad)
 nav_order: 5
 ---
 
-December 5, 1993
-This is number four
+December 5, 1993  
+This is number four  
 No more until ninety four
 
 Hello peoples
@@ -16,11 +16,11 @@ That Anne has a nasty streak what? But the weather has been so nice it is very h
 
 One of the instructors over at the gym (no not him he still avoids me) was telling me that January and February are quite cold. That is to say it stays close to zero most of the day. March is supposed to be très beau. None of this conversation is a certainty however as I continue to struggle with le francais. Not only do I have trouble with French but check out this feeble attempt.
 
-To Aniane came a Caper one time
-With language number one on his mind
-When he asked if they comprenez
-Puzzled looks he received many
-So now he is a master of mime.
+To Aniane came a Caper one time  
+With language number one on his mind  
+When he asked if they comprenez  
+Puzzled looks he received many  
+So now he is a master of mime.  
 
 I really do have too much time on my hands.
 
@@ -40,6 +40,6 @@ Other points of interest would be Ian receiving his yellow belt in Ju-jitsu. Sin
 
 Laura's line for this month concerns Mom's letters so if you haven't read one be sure to pick one up. Noreen would like the way she describes Nana's letters. Laura calls them "the incredible journey". We are thrilled by your letters, Nana, and don't change a thing.
 
-Joyeux Noël et Bonne Année
+Joyeux Noël et Bonne Année  
 Ken and Family
 

@@ -70,5 +70,5 @@ To end I guess a brief description of the maison de ville. There are four levels
 
 Well there you have my first letter. There may even be more now that we are mobile. Spain is high on our agenda. If you would like to be considered for the next letter all you have to do is send PEANUT BUTTER.
 
-Love to all
+Love to all  
 Ken Crosby and family
