@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Second Letter (Dad)
+title: Second Letter
 nav_order: 2
 ---
 
-The second letter of Ken to the Canadians
-September 26
+The second letter of Ken to the Canadians  
+September 26   
 Sunday
 
 Bonju Mesurs, Dames
@@ -24,15 +24,15 @@ Monday morning and the children are on the way to the college, the weather looks
 
 After we found the directions to the beach, which took a ten minute walk in circles and a few questions to the locals, it was approaching midi. Around the village square we encountered a chip wagon which had French and American quick food. Being the adventuresome eater that I am I chose a hot dog and some fries. The hot dog came in a one and a half foot baguette. The baguette is like a sub without the inside. It's bread like a big bun, maybe you had to be there. Anyway it cost about two dollars but to my surprise there were two hot dogs end to end. What a treat. A long hot dog, some fries, a beer on a park bench smiling at all the retired Frenchmen who were cursing the Canadians for taking over their bench. Life is nice.
 
-Time to find a bathroom before we search for the beach.
-Time to digress.
-When we were on the train from Marseille to Montpellier Ian remarked that he couldn't believe how many ways there are to flush a toilette.
-On a plane you push a button.
-On the train you step on a pedal.
-There are push and pull levers, pull up buttons, flick a switch or my favorite, pull on the chain. Note: Ian has tried all of these and his number one choice is step on the pedal.
-This WC we found in Sete was great.
-Laura thinks the strangest things amuse me and I told her to read letter number one.
-For all of you sci-fi fans this toilette can only be described as a large pod. I search for the way in. Some words in French I don't understand but there is a picture of a French franc.
+Time to find a bathroom before we search for the beach.  
+Time to digress.  
+When we were on the train from Marseille to Montpellier Ian remarked that he couldn't believe how many ways there are to flush a toilette.  
+On a plane you push a button.  
+On the train you step on a pedal.  
+There are push and pull levers, pull up buttons, flick a switch or my favorite, pull on the chain. Note: Ian has tried all of these and his number one choice is step on the pedal.  
+This WC we found in Sete was great.  
+Laura thinks the strangest things amuse me and I told her to read letter number one.  
+For all of you sci-fi fans this toilette can only be described as a large pod. I search for the way in. Some words in French I don't understand but there is a picture of a French franc.  
 No Graham this is not Frankie Gillis. The light is green so I put in the franc. The door slides open, like on the old Enterprise, and there is a shiny white bowl; no it's two shiny white bowls. One for your hands. The lower one is set so I am glad to be a male. I do my business but I cannot find any way to flush this machine. I've pushed ever lever and searched the entire pod. What will I tell Ian? Never mind Ian, I think Anne wants in here next.  Well I have to leave and before anyone can enter, the pod closes up and after a minute or so the green light comes on. Neat or what. Anne entered a clean pod but I still am glad to be a male. This inventor had to be one of us.
 
 
