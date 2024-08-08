@@ -1,3 +1,9 @@
+---
+layout: default
+title: Customization
+nav_order: 5
+---
+
 "The fifth letter of Ken to the Canadians
 January 4, 1994
 

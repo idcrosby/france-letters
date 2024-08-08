@@ -1,3 +1,9 @@
+---
+layout: default
+title: Customization
+nav_order: 7
+---
+
 Hello again,
 
 TREAT of TREATS !!! I should complain to you people more often. I FOUND A LIBRARY!!! I

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Customization
+nav_order: 1
+---
+
 September 17, 1993
 
 Bonjour People

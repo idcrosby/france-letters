@@ -1,3 +1,8 @@
+---
+layout: default
+title: Customization
+nav_order: 4
+---
 
 December 5, 1993
 This is number four

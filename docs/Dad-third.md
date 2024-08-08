@@ -1,3 +1,9 @@
+---
+layout: default
+title: Customization
+nav_order: 3
+---
+
 The third letter of Ken to the Canadians
 October 20, 1993
 

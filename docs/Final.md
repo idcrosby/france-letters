@@ -1,3 +1,9 @@
+---
+layout: default
+title: Customization
+nav_order: 9
+---
+
 Buongiorno:
 
 Well, we're back from Italy and we had our ride in a gondola so the trip was a success. Actually on

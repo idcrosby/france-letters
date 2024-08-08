@@ -1,3 +1,9 @@
+---
+layout: default
+title: Customization
+nav_order: 6
+---
+
 Hello all,
 
 Kenneth got so sick and tired of me saying, “You should put that in your next letter" that he
