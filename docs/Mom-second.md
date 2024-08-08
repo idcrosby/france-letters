@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Customization
-nav_order: 7
+title: Second Letter (Mom)
+nav_order: 6
 ---
 
 Hello again,
